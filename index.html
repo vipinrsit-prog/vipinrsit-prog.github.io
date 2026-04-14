@@ -61,9 +61,15 @@
       margin: 0;
     }
 
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.9rem;
+    }
+
     .badge {
       display: inline-block;
-      margin-top: 0.9rem;
       padding: 0.35rem 0.65rem;
       border-radius: 999px;
       background: #dbeafe;
@@ -108,7 +114,10 @@
     <header class="hero">
       <h1>Vipin Kumar</h1>
       <p class="subtitle">AI Researcher at BBAU University</p>
-      <span class="badge" aria-label="Artificial Intelligence and Autonomous Systems">Artificial Intelligence • Autonomous Systems</span>
+      <div class="badges">
+        <span class="badge">Artificial Intelligence</span>
+        <span class="badge">Autonomous Systems</span>
+      </div>
     </header>
 
     <section class="section">
@@ -138,7 +147,7 @@
       <h2>Contact</h2>
       <p>
         Email:
-        <a href="mailto:vipin.rs.it@bbau.ac.in" aria-label="Email Vipin Kumar">vipin.rs.it@bbau.ac.in</a>
+        <a href="mailto:vipin.rs.it@bbau.ac.in">vipin.rs.it@bbau.ac.in</a>
       </p>
     </section>
   </main>
