@@ -1,32 +1,32 @@
 # ME-Swarm AI Orchestrator
 
-## Next-Gen Autonomous Drone Orchestration & QoS Optimization
+## Next-Generation Autonomous Drone Orchestration & QoS Optimization
 
-🎓 **PhD Research Scholar** at BBAU University, India
-🔬 **Specialization:** 5G/6G Architectures, O-RAN, & Drone Swarm Optimization
+🎓 **PhD Research Scholar** | Department of Information Technology, BBAU, India
+🔬 **Specialization:** 5G/6G Architectures, O-RAN, & Intelligent Drone Swarms
 
 ### 🚀 ME-Swarm Framework
-A highly decentralized framework utilizing **Lagrangian mechanics** and the **maximum entropy principle** for drone swarm task allocation with strict fairness and Quality of Service (QoS) guarantees.
+A highly decentralized framework utilizing **advanced stochastic optimization** and **non-linear resource modeling** for drone swarm task allocation. We provide industry-leading Quality of Service (QoS) guarantees for large-scale multi-UAV operations.
 
 **Key Product Features:**
-* **Decentralized Multi-UAV Scheduling:** Real-time task allocation for autonomous fleets.
-* **5G/6G O-RAN Integration:** Optimized for next-generation network architectures and O-RAN standards.
-* **Energy-Aware Resource Allocation:** Advanced optimization for extended mission endurance.
-* **Scalable Cloud Architecture:** Designed for high-performance computing on AWS and academic testbeds like ARA and CloudLab.
+* **Intelligent Multi-UAV Scheduling:** Real-time, decentralized task allocation for autonomous fleets.
+* **5G/6G O-RAN Integration:** Built for next-generation network standards and O-RAN architectures.
+* **Energy-Aware Resource Allocation:** Proprietary optimization models for extended mission endurance.
+* **Scalable Cloud Infrastructure:** Engineered for high-performance computing on AWS and advanced academic testbeds.
 
-### 🔬 Core Research & Technology
-* **Distributed AI Optimization:** Leveraging information-theoretic approaches for resource management.
-* **Network Slicing & QoS:** Ensuring reliability in heterogeneous 5G/6G environments.
-* **Autonomous Systems:** Developing routing optimizations for intelligent drone swarms.
+### 🔬 Core Technology & Expertise
+* **Distributed AI Systems:** Leveraging information-theoretic frameworks for robust resource management.
+* **Network Slicing & QoS:** Ensuring high-reliability communication in heterogeneous 5G/6G environments.
+* **Autonomous Routing:** Intelligent routing optimizations for large-scale, high-density drone swarms.
 
 ### 🛠️ Technical Stack
-* **Languages & Frameworks:** Python, C++, MATLAB, Machine Learning, Deep Learning.
-* **Simulation Tools:** ns-3, srsRAN, AirSim, and high-performance computing (HPC) testbeds.
-* **Cloud Infrastructure:** AWS (EC2, S3, Bedrock), CloudLab, FABRIC.
+* **Languages:** Python, C++, MATLAB.
+* **Simulation:** ns-3, srsRAN, AirSim.
+* **Cloud Infrastructure:** AWS (EC2, S3, Bedrock), CloudLab, ARA, FABRIC.
 
 ### 📊 Active Doctoral Project
 * **Title:** QoS-based Task and Resource Allocation for Next Generation Drone Swarms.
-* **Institution:** Department of Information Technology, Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow.
+* **Institution:** Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow.
 * **Supervisor:** Dr. Amit Kumar Singh.
 
 ---
