@@ -1,38 +1,33 @@
-# VIPIN KUMAR
+# ME-Swarm AI Orchestrator
 
-## Vipin Kumar | AI Researcher
+## Next-Gen Autonomous Drone Orchestration & QoS Optimization
 
-🎓 BBAU University, India | 🔬 Autonomous Systems & Drone Swarm Optimization
+🎓 **PhD Research Scholar** at BBAU University, India
+🔬 **Specialization:** 5G/6G Architectures, O-RAN, & Drone Swarm Optimization
 
-### 🚀 Drone-Swarm Framework
+### 🚀 ME-Swarm Framework
+A highly decentralized framework utilizing **Lagrangian mechanics** and the **maximum entropy principle** for drone swarm task allocation with strict fairness and Quality of Service (QoS) guarantees.
 
-A highly decentralized framework utilizing mathematical optimization for drone swarm task allocation with strict fairness and QoS guarantees.
+**Key Product Features:**
+* **Decentralized Multi-UAV Scheduling:** Real-time task allocation for autonomous fleets.
+* **5G/6G O-RAN Integration:** Optimized for next-generation network architectures and O-RAN standards.
+* **Energy-Aware Resource Allocation:** Advanced optimization for extended mission endurance.
+* **Scalable Cloud Architecture:** Designed for high-performance computing on AWS and academic testbeds like ARA and CloudLab.
 
-**Key Features:**
-* Decentralized multi-UAV task scheduling
-* Coverage bounds enforcement
-* Energy-aware resource allocation
-* Scalable to large drone swarms
+### 🔬 Core Research & Technology
+* **Distributed AI Optimization:** Leveraging information-theoretic approaches for resource management.
+* **Network Slicing & QoS:** Ensuring reliability in heterogeneous 5G/6G environments.
+* **Autonomous Systems:** Developing routing optimizations for intelligent drone swarms.
 
-### 🔬 Research Interests
+### 🛠️ Technical Stack
+* **Languages & Frameworks:** Python, C++, MATLAB, Machine Learning, Deep Learning.
+* **Simulation Tools:** ns-3, srsRAN, AirSim, and high-performance computing (HPC) testbeds.
+* **Cloud Infrastructure:** AWS (EC2, S3, Bedrock), CloudLab, FABRIC.
 
-* Multi-UAV Systems & Autonomous Robotics
-* Distributed AI Optimization
-* Information-Theoretic Approaches
-* 5G/6G O-RAN Architectures & Integration
+### 📊 Active Doctoral Project
+* **Title:** QoS-based Task and Resource Allocation for Next Generation Drone Swarms.
+* **Institution:** Department of Information Technology, Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow.
+* **Supervisor:** Dr. Amit Kumar Singh.
 
-### 🛠️ Technical Skills
-
-* Python, MATLAB
-* Machine Learning & Deep Learning
-* Optimization Algorithms
-* Distributed Systems
-
-### 📊 Current Projects
-
-* Developing autonomous UAV routing optimizations over 5G/6G networks at the Department of Information Technology, BBAU, under the supervision of Dr. Amit Kumar Singh.
-
-### ✉️ Contact
-
-* Email: vipin.rs.it@bbau.ac.in
-* GitHub: https://github.com/vipinrsit-prog
+---
+**Contact:** [vipin.rs.it@bbau.ac.in](mailto:vipin.rs.it@bbau.ac.in) | Lucknow, UP, India
