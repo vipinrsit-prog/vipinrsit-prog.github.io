@@ -1,33 +1,42 @@
 # ME-Swarm AI Orchestrator
-
-## Next-Generation Autonomous Drone Orchestration & QoS Optimization
-
-🎓 **PhD Research Scholar** | Department of Information Technology, BBAU, India
-🔬 **Specialization:** 5G/6G Architectures, O-RAN, & Intelligent Drone Swarms
-
-### 🚀 ME-Swarm Framework
-A highly decentralized framework utilizing **advanced stochastic optimization** and **non-linear resource modeling** for drone swarm task allocation. We provide industry-leading Quality of Service (QoS) guarantees for large-scale multi-UAV operations.
-
-**Key Product Features:**
-* **Intelligent Multi-UAV Scheduling:** Real-time, decentralized task allocation for autonomous fleets.
-* **5G/6G O-RAN Integration:** Built for next-generation network standards and O-RAN architectures.
-* **Energy-Aware Resource Allocation:** Proprietary optimization models for extended mission endurance.
-* **Scalable Cloud Infrastructure:** Engineered for high-performance computing on AWS and advanced academic testbeds.
-
-### 🔬 Core Technology & Expertise
-* **Distributed AI Systems:** Leveraging information-theoretic frameworks for robust resource management.
-* **Network Slicing & QoS:** Ensuring high-reliability communication in heterogeneous 5G/6G environments.
-* **Autonomous Routing:** Intelligent routing optimizations for large-scale, high-density drone swarms.
-
-### 🛠️ Technical Stack
-* **Languages:** Python, C++, MATLAB.
-* **Simulation:** ns-3, srsRAN, AirSim.
-* **Cloud Infrastructure:** AWS (EC2, S3, Bedrock), CloudLab, ARA, FABRIC.
-
-### 📊 Active Doctoral Project
-* **Title:** QoS-based Task and Resource Allocation for Next Generation Drone Swarms.
-* **Institution:** Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow.
-* **Supervisor:** Dr. Amit Kumar Singh.
+**Next-Generation Autonomous Drone Orchestration & QoS Optimization**
 
 ---
-**Contact:** [vipin.rs.it@bbau.ac.in](mailto:vipin.rs.it@bbau.ac.in) | Lucknow, UP, India
+
+### 👤 Executive Profile
+**Vipin Kumar**  
+*PhD Research Scholar*  
+Department of Information Technology  
+Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow, India  
+
+**Core Expertise:**
+*   Next-Gen Wireless Architectures (5G/6G)
+*   Open RAN (O-RAN) Standards & Integration
+*   Intelligent Drone Swarm Optimization
+
+---
+
+### 🚀 The ME-Swarm Framework
+ME-Swarm is a decentralized platform engineered for mission-critical task allocation in autonomous UAV networks. Our framework ensures strict **Quality of Service (QoS)** and fairness across heterogeneous environments.
+
+**Key Capabilities:**
+*   **Intelligent Multi-UAV Scheduling:** Real-time, decentralized task allocation.
+*   **O-RAN Standards Compliance:** Built for 5G srsRAN stacks and next-gen architectures.
+*   **Resource Efficiency:** Proprietary optimization models for extended mission endurance.
+*   **Scalable Infrastructure:** Optimized for AWS Cloud and high-performance testbeds.
+
+---
+
+### 🛠️ Technical Stack & Ecosystem
+*   **Languages:** Python, C++, MATLAB
+*   **Simulation Environment:** ns-3, srsRAN, AirSim
+*   **Cloud & Testbeds:** AWS (EC2, S3, Bedrock), CloudLab (Project: bbau5guav), ARA Wireless Living Lab
+
+---
+
+### 📊 Project Roadmap
+**Current Focus:** Intelligent Orchestration Platform for Autonomous UAV Networks.  
+**Academic Supervision:** Developed under the guidance of **Dr. Amit Kumar Singh** at BBAU.
+
+---
+**Contact:** [vipin.rs.it@bbau.ac.in](mailto:vipin.rs.it@bbau.ac.in) | [GitHub Profile](https://github.com/vipinrsit-prog)
