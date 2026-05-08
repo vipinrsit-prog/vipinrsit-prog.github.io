@@ -1,42 +1,41 @@
 # ME-Swarm AI Orchestrator
-**Next-Generation Autonomous Drone Orchestration & QoS Optimization**
+**Scaling Intelligent Autonomous UAV Networks**
 
 ---
 
 ### 👤 Executive Profile
 **Vipin Kumar**  
-*PhD Research Scholar*  
-Department of Information Technology  
-Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow, India  
+*Lead Founder & PhD Research Scholar*  
+Department of Information Technology, BBAU, Lucknow, India  
 
 **Core Expertise:**
-*   Next-Gen Wireless Architectures (5G/6G)
+*   Next-Generation Wireless Architectures (5G/6G)
 *   Open RAN (O-RAN) Standards & Integration
 *   Intelligent Drone Swarm Optimization
 
 ---
 
-### 🚀 The ME-Swarm Framework
-ME-Swarm is a decentralized platform engineered for mission-critical task allocation in autonomous UAV networks. Our framework ensures strict **Quality of Service (QoS)** and fairness across heterogeneous environments.
+### 🚀 The ME-Swarm Mission
+ME-Swarm is a decentralized platform engineered for mission-critical task allocation in autonomous UAV networks. Having successfully validated our core optimization logic in controlled academic environments, we are now migrating to **AWS Cloud** to leverage enterprise-grade AI and global infrastructure.
 
-**Key Capabilities:**
-*   **Intelligent Multi-UAV Scheduling:** Real-time, decentralized task allocation.
-*   **O-RAN Standards Compliance:** Built for 5G srsRAN stacks and next-gen architectures.
-*   **Resource Efficiency:** Proprietary optimization models for extended mission endurance.
-*   **Scalable Infrastructure:** Optimized for AWS Cloud and high-performance testbeds.
+**Why We Are Scaling to AWS:**
+*   **Enterprise AI Integration:** To integrate **Amazon Bedrock** for real-time, LLM-driven swarm decision logic.
+*   **High-Availability Networking:** To move from local simulations to a globally distributed cloud architecture.
+*   **Edge Computing Simulation:** Utilizing AWS Greengrass and EC2 to simulate real-world 5G edge nodes.
 
 ---
 
-### 🛠️ Technical Stack & Ecosystem
-*   **Languages:** Python, C++, MATLAB
-*   **Simulation Environment:** ns-3, srsRAN, AirSim
-*   **Cloud & Testbeds:** AWS (EC2, S3, Bedrock), CloudLab (Project: bbau5guav), ARA Wireless Living Lab
+### 🛠️ Technical Stack
+*   **Development:** Python, C++, MATLAB
+*   **Core Logic:** Proprietary Distributed Stochastic Optimization
+*   **Network Foundations:** O-RAN Standards & 5G srsRAN Stacks
+*   **Target Cloud Environment:** AWS (Compute, AI, & Storage)
 
 ---
 
 ### 📊 Project Roadmap
-**Current Focus:** Intelligent Orchestration Platform for Autonomous UAV Networks.  
-**Academic Supervision:** Developed under the guidance of **Dr. Amit Kumar Singh** at BBAU.
+**Current Status:** Post-Validation Phase. Transitioning from academic testbeds to a commercial-ready AWS cloud deployment.  
+**Supervision:** Developed at the Department of Information Technology, BBAU, under **Dr. Amit Kumar Singh**.
 
 ---
-**Contact:** [vipin.rs.it@bbau.ac.in](mailto:vipin.rs.it@bbau.ac.in) | [GitHub Profile](https://github.com/vipinrsit-prog)
+**Contact:** [vipin.rs.it@bbau.ac.in](mailto:vipin.rs.it@bbau.ac.in) | [Research Portfolio](https://github.com/vipinrsit-prog)
