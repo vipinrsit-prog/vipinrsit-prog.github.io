@@ -66,5 +66,3 @@ Babasaheb Bhimrao Ambedkar University
 Vidya Vihar, Raebareli Road, Lucknow, Uttar Pradesh 226025, India
 
 ---
-
-*Last updated: May 2026.*
